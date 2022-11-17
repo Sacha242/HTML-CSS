@@ -1,0 +1,140 @@
+<html lang="en">
+
+<head>
+  <style>
+ 
+    
+  </style> 
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+
+
+
+
+<html>
+<head>
+<title>CV</title>
+
+<style>
+
+
+</style>
+
+
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+<table border="1px">
+  
+
+<tr>
+<td><img width="355px" height="250px" src="
+20221113_102059.jpg"></td>
+  <td width="300"><h1>Sacha Duran Rillaers sachaduran@aceofbrussels.com +493 86 85 20</h1><td>
+    </tr>
+    <tr></tr>
+
+<tr>
+<td>
+  
+
+ 
+<h3>Skills</h3>
+
+  
+<ul>
+ <li>IT</li>
+<li>Web Design</li>
+<li>Languages</li>
+<li>Team Player</li>
+<li>Language:French(native)</li>
+<li>Language:Spanish(second language)</li>
+<li>Language:English(Fluent)</li>
+<li>Language:Dutch(currently learning)</li>
+</ul>
+<h3>Achievements</h3>
+     
+
+<ul>
+<li>ARTS<br>A LEVEL Cambridge Certificate</li>
+<li>FRENCH<br>A LEVEL Cambridge Certificate</li>
+<li>SPANISH<br>A LEVEL Cambridge(ongoing)</li>
+<li>ARTS<br>IGCSE Cambridge Certificate</li>
+<li>FRENCH<br>IGCSE Cambridge Certificate</li>
+</ul>
+  
+<h3>Interests</h3>
+ 
+
+<ul>
+<li>Computers functionality, Web design and Languages</li>
+</ul>
+
+<h3>Concact</h3>
+
+
+<ul>
+        
+<li>sachaduran@aceofbrussels.com</li>
+<li>+32 0493 86 85 20</li>
+</ul>
+  <td><h3>Profile</h3><p>Student at an International Cambridge School in Brussels, with a passion for
+computers functionality, computer gaming, Web Design and languages, I
+would like to work in a dynamic and rewarding environment where my
+technical and personal skills could bring a positive input in the work
+    environment and community.</p><p>I am extremely motivated, hard working and very open to start a job in a
+field such as restaurant catering, customer care or anything that will help
+me to develop my skills. I am a quick learner and an extremely positive
+spirit that could adapt easily when surrounded by people who share the
+    same values,</p><h3>Experience</h3><h3>ACE OF BRUSSELS Cambridge International School, ACE WORKS
+    Program</h3><h4>Internship Student | Sept 2022 - Present</h4><p>As a student at ACE OF BRUSSELS I am continuing my studies with ACE
+following an A level Spanish and a Web Design course. As an intern, I am
+helping out at ACE with creating digital marketing materials using Canva.
+In addition, as part of internship at ACE, I have started to offer my help
+as a Teaching Assistant to one of our primary classes in the Primary
+School. I will be helping out 10 years old students with their work on
+Maths and English during some of their school hours. This will help me
+develop some skills on social interaction, organization and leadership. I
+am also due to start an Internship on Web Design with my school in in
+    January, as soon as I finish my first level on my Web Design course.<h3>Education</h3><h3>ACE OF BRUSSELS Cambridge International School</h3><h4>Auderghem | Sept 2017 - Present</h4><p>I Have studied and prepared for different Cambridge exams , such as
+IGCSE ENGLISH, IGCSE ART, IGCSE FRENCH, A LEVEL ART and A LEVEL
+FRENCH. Currently I am preparing for my A LEVEL SPANISH exam with
+the school, as well as I am also taking an online WEB DESIGN course withSPANISH, A level | 2022 - Present
+    an online course provider.</p><h3>Certificate</h3><h4>ARTS, A level | 2020 - 2022</h4><h4>A LEVEL Cambridge Certificate</h4><h3>Certicate</h3><h4>FRENCH, A level | 2020 - 2022</h4><h4>A LEVEL Cambridge Certficate</h4><h3>Certificate</h3><h4>Spanish A level | 2022 - Present</h4><h4>Ongoing studies towards gaining an A Level certification in May 2023</h4><h3>Other Certificate</h3><h4>Allison Course, Online studies | Sept 2022 - Present</h4><h4>WEB DESIGN with HTML online course</h4><h3>Other Certificate</h3><h4>Asdan | 2020 - 2022</h4><h4>Mathematics ASDAN Certification</h4><h4>English ASDAN Certification</h4><h4>Computing Vocational Taster ASDAN Certification</h4><h4>Living Independently ASDAN Certification</h4></td>
+      
+   
+
+</td>
+
+ 
+  </tr>
+
+
+<tr>
+</table>
+
+</body>
+</html>
+  <script src="script.js"></script>
+</body>
+
+</html>
+
+
+table td{
+  vertical-align: top;
+}
+
