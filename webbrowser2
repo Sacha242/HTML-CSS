@@ -10,7 +10,7 @@
   <header>
   <h1>Channel 9</h1>
   <h2>HTML5 and CCS3 Fundamentals</h2>
-  <ul>
+  <ul class="nav">
     <li>Home</li>
     <li>About</li>
     <li>Concact</li>
@@ -157,7 +157,7 @@ Hopefully you can see the issues surrounding HTML5 and CSS3 with regards to thei
   
     <footer>
     <p>Copyright &copy; 2012-2014 Bob Tabor</p> 
-    <ul>
+    <ul class="nav">
     <li>Home</li>
     <li>About</li>
     <li>Concact</li>
@@ -178,18 +178,56 @@ Hopefully you can see the issues surrounding HTML5 and CSS3 with regards to thei
 </body>
        
        </html>
-@import url('https://fonts.googleapis.com/css2?family=abc&display=swap');
+       
+       
+       @import url('https://fonts.googleapis.com/css2?family=abc&display=swap');
 body{
   font-family: 'abc',Helvetica, Arial, Sans-serif;
   
   background-color: #333;
 }
 
-header{
+header, footer{
   background-color: black;
   color: white;
   width: 80%;
   margin-left: auto;
   margin-right:auto;
   padding:10px;
+   border: solid 5px #000;
 }
+
+section{
+  background-color: white;
+  width: 80%;
+  margin-left: auto;
+  margin-right:auto;
+  padding:10px;
+  border: solid 5px #000;
+}
+
+aside{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border: solid 1px #696;
+  background-color: #eeff99;
+  padding:15px;
+  font-size: 12px;
+  border-radius: 10px;
+}
+  
+  .nav li{
+   background-color: blue;
+   list-style-type:none;
+   margin-right: 8px;
+   padding:5px;
+   float:right;
+   
+    
+  }
+
+    
+  
+       
+       
