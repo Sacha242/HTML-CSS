@@ -8,8 +8,8 @@
 
 <body>
   <header>
-  <h1>Channel 9</h1>
-  <h2>HTML5 and CCS3 Fundamentals</h2>
+  <div><h1>Channel 9</h1>
+    <h2>HTML5 and CCS3 Fundamentals</h2></div>
   <ul class="nav">
     <li>Home</li>
     <li>About</li>
@@ -180,6 +180,11 @@ Hopefully you can see the issues surrounding HTML5 and CSS3 with regards to thei
        </html>
        
        
+       
+       
+       
+       
+       
        @import url('https://fonts.googleapis.com/css2?family=abc&display=swap');
 body{
   font-family: 'abc',Helvetica, Arial, Sans-serif;
@@ -195,6 +200,7 @@ header, footer{
   margin-right:auto;
   padding:10px;
    border: solid 5px #000;
+  height: 100px;
 }
 
 section{
@@ -226,8 +232,7 @@ aside{
    
     
   }
-
-    
-  
-       
-       
+header> div, footer> p{
+display: inline;
+float: left;
+}
