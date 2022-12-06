@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Homepage</title>
+    <meta name="viewport" content="width=device-width, inicial scale=1">
+
+<link type="text/css" rel="stylesheet" href="style.css"/>
+      </head>
+ 
+
+<body>
+    
+       <div class="left-column"></div>
+       <div class="navigation-wrapper">
+       <div class="contact-hours-wrapper">
+         <i class="fas fa-phone-volume"></i>
+       
+    <!--Hours + phone -->
+        555 555 555
+        10 AM-MIDNIGHT
+      </div> 
+      
+      <!-- Address -->
+        
+      
+     <!--- Link wrapper -->
+    <div>
+       
+    <!-- nav link -->  
+        <div>     
+        <a href="index.htm">home</a>
+      </div>
+     
+      <!-- nav link-->
+      <div class="nav-link">
+        <a href="about.html">about</a>
+      </div>
+      
+      <!-- nav link-->
+      <div class="nav-link">
+        <a href="menu.html">menu</a>
+      </div>
+      
+     <!-- nav link-->
+      <div class="nav-link">
+     <a href="contact.html">contact</a>
+      </div>
+     
+      <!-- nav link-->
+      <div class="nav-link">
+        <a href="demo.html">demo</a>
+      </div>
+  </div>
+ <div id="address-wrapper">
+        123 any street
+        Scotsdale, AZ, 85251 
+        </div>       
+      </div>
+  <!-- end of navigation wrapper -->
+
+
+</body>
+
+</html>
+
+
+
+/* Common nav styles */
+body{
+margin: opx;  
+}
+.navigation-wrapper{
+ height: 190px; 
+ background-color: #11122b;
+ color: #cbcbcb;
+ /* Flexbox container */
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding-top: 60px;
+ padding-bottom: 60px;
+ padding-right: 100px;
+ padding-left: 100px;
+}
+
+   
+
+.contact-hours-wrapper {
+ color: royalblue;
+}
+
+#address-wrapper {
+color: red;
+margin-left: 30px;
+  
+}
+
+
