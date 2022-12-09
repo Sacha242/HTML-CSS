@@ -338,5 +338,265 @@ border: 1px solid #2E3852;
 }
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+  <link rel="stylesheet" href="style.css"/>
+    </head>
+
+
+<body>
+  <div class= "navbar">
+  <img class="picture" src="logo.png"/> 
+  
+ <a class="soundwave" href="/">SoundWave</a>
+  <ul>
+    <li class="discover"><a href="/">Discover</a></li>
+      <li class="join"><a href="/">Join</a></li>
+    </ul>
+</div>
+ 
+ 
+  <div class="main-content">
+    <h1>Discover new music</h1>
+  </div>
+    
+   
+ 
+  <script src="script.js"></script>
+    
+    <div>
+      <ul>
+        <li class="list-item1">Charts</li>
+        <li class="list-item2">Albums</li>
+        <li class="list-item3">More</li>
+      
+      </ul>
+      
+      <h3 class="joining-header">By joining you can benefit by listening to the latest albums released</h3> 
+      
+      <img class="album-cover"src="covers.jpeg">
+        
+         <footer>
+   <ul>
+     <li><a href="/">About Us</a></li>
+     <li><a href="/">Contact</a></li>
+     </ul>
+     
+     <ul>
+       <li class="list-item4"><a href="/">Twitter</a></li>
+       <li class="list-item5"><a href="/">Facebook</a></li>
+     </ul>
+    </footer>  
+        
+    
+  
+  
+    
+     
+  
+  
+ 
+ 
+</body>
+
+</html>
+
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
+body {
+    background-color: #2F303A;
+    font-family: poppins;
+    color: white;
+    width: 900px;
+    margin: 0px auto;
+}
+
+h1
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: #ccc;
+    text-decoration: underline;
+}
+
+.navbar {
+    position: relative;
+    left: 100px;
+}
+
+ul>li {
+    display: inline;
+    float
+}
+
+.soundwave {}
+
+
+
+ul {
+    list-style-type: none;
+    background-color: ;
+    width: 150px;
+    display: inline;
+}
+
+.picture {
+    width: 50px;
+    padding:px
+ 
+}
+
+.picture2 {
+    width: 300px;
+    margin-top: 200px;
+    position: relative;
+    left: 250px;
+
+
+
+}
+
+.discover {
+    position: relative;
+    left: 380px;
+}
+
+.join {
+    position: relative;
+    left: 400px;
+}
+
+
+.listitem2 {
+position: relative;
+    left: 300px;
+}
+
+.listitem1{
+ position: relative;
+    left: 285px;
+}
+
+.header1{
+ Margin-top:230px;
+ position: relative;
+ left:170px;
+ 
+}
+
+.header4{
+position: relative;
+left: 190px;
+background-color:
+}
+
+
+
+.div1{
+ margin-top:250px;
+}    
+
+.main-content >h1{;
+ margin-top:300px;
+ font-size: 50px;
+margin-left:50px;
+}
+
+.main-content >h3{
+ 
+ 
+ 
+ 
+}
+
+
+
+ 
+
+
+.header{
+  margin-left:290px
+}
+
+.header2{
+ margin-left:170px;  
+}
+
+.header3{
+margin-left:70px;  
+}
+
+.list-item1{
+margin-left:20px
+border: 2px solid black;
+  padding: 10px;
+  margin: 10px;
+  background-color:#1E1C23   ;
+
+}
+
+.list-item2{
+  padding: 10px;
+  margin: 30px;
+  background-color:#1E1C23  ;
+}
+
+.list-item3{
+padding: 10px;
+  margin: px;
+  background-color:#1E1C23  ;
+}
+
+.joining-header{
+  position:relative;
+  left:50px
+    
+  
+}
+
+.album-cover{
+width:250px;  
+margin-left:720px;
+position:relative;
+bottom:240px;
+
+}
+
+.list-item5{
+position:relative;
+left:630px
+}
+
+.list-item4{
+position:relative;
+left:620px
+}
+
+
+
+
+ 
+
+ 
+ 
+ 
+  
+  
+
+
+
+
 
 
