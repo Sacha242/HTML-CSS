@@ -1,0 +1,104 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+  <title>twitter homepage</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<table id="central">
+<tr>
+<td>
+
+<p class="paragraph1">What's happening</p>
+<button class="button">Post</button>
+
+</td>
+</tr>
+
+  
+  </table>
+  
+
+  <table  class="table2">
+    <tr>
+      <td class="tabledata1">This is a tweet</td>
+      
+    </tr>
+  </table>
+
+</body>
+
+h3{
+  color: white;
+    }
+  
+  body{
+    background-color:  #001a33;
+    color: white;
+    margin: 0;
+  }
+  
+  .h41{
+  
+  }
+  
+  #central{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1em 0 1em;
+    background-color: black;
+    height: 120px;
+  }
+  
+  
+  
+  #central:hover {
+    background-color: #111;
+  }
+
+  .table2{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 1em 0 1em;
+    background-color: #003566;
+    height: 100px;
+    }
+   
+   
+    .tableheader1{
+    margin-bottom: 40px;
+   }
+
+   
+
+  .paragraph1{
+    background-color: white;
+    color: grey;
+    height: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    margin-bottom: 90px;
+  }
+
+  .button{
+  position: relative;
+  left: 600px; 
+  background-color: #1DA1F2;
+  color:white;
+  border-radius: 10px;
+  width: 70px;
+  height: 30px;
+  position: relative;
+  left: 590px;
+  position: relative;
+  bottom: 90px;
+  }
+  
+  .table2:hover{
+  background-color: #111;
+  }
