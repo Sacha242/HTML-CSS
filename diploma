@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Homepage</title>
+    <meta name="viewport" content="width=device-width, inicial scale=1"/>
+
+   
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="diploma.css"/>
+      </head>
+ 
+
+      <body>
+        <div class="navigation-wrapper">
+    
+            <div class="left-column">
+                <div class="icon">
+                    <i class="fas fa-phone-volume"></i>
+                </div>
+    
+                <div class="contact-hours-wrapper">
+                    <div class="phone">
+                        555 555 5555
+                    </div>
+    
+                    <div class="hours">
+                        10 AM - MIDNIGHT
+                    </div>
+                </div>
+            </div>
+    
+            <div>
+                <div class="banner-image">
+                <img src="decamp-fantastic-fries-logo-white.png" alt="Logo">
+                </div>
+                <div class="links-wrapper">
+                    <div class="nav-link">
+                        <a href="index.html">Home</a>
+                    </div>
+    
+                    <div class="nav-link">
+                        <a href="about.html">About</a>
+                    </div>
+                    
+                    <div class="nav-link">
+                        <a href="menu.html">Menu</a>
+                    </div>
+    
+                    <div class="nav-link">
+                        <a href="contact.html">Contact</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="right-column">
+                <div class="address-wrapper">
+                    <a href="contact.html">
+                        123 Any Street<br>
+                        Scottsdale, AZ, 85251
+                    </a>
+                </div>
+
+            </body>
+
+            </html>
+            
+            
+            * Common nav styles */
+body{
+
+  
+  
+    margin: opx;  
+    font-family: 'Roboto', sans-serif;
+    }
+    .navigation-wrapper{
+     height: 190px; 
+     background-color: #11122b;
+     color: #cbcbcb;
+     /* Flexbox container */
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding-top: 60px;
+     padding-bottom: 60px;
+     padding-right: 100px;
+     padding-left: 100px;
+    }
+    
+    .left-column{
+    display:flex;
+    align-items:center;
+    }
+    
+    .icon{
+     margin-right:15px; 
+    }
+    
+    .icon i{
+    font-size:2em;  
+    }
+       
+    
+    .left-column > .contact-hours-wrapper {
+    display:grid;
+    grid-template-columns: 1fr;
+    grid-gap: 10px;
+
+     
+     
+    }
+    
+    .contact-hours-wrapper >.hour{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    }
+
+    .nav-link a {
+        font-family: 'Ubuntu Condensed', sans-serif;
+        color: white;
+    }
+    
+    .address-wrapper {
+        font-family: 'Ubuntu Condensed', sans-serif;
+    
+    
+    
+      
+    }
+  
+    .banner-image img{
+    width: 216px;
+    height: 100%;
+  } 
+    
